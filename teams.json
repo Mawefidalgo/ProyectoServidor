@@ -1,0 +1,99 @@
+{
+"equipos" :[
+  {
+    "name": "atlas",
+    "label": "Atlas",
+    "icon": "imgs/atlas.png"
+  },
+  {
+    "name": "chiapas",
+    "label": "Chiapas",
+    "icon": "imgs/chiapas.png"
+  },
+  {
+    "name": "america",
+    "label": "Club América",
+    "icon": "imgs/america.png"
+  },
+  {
+    "name": "cruzazul",
+    "label": "Cruz Azul",
+    "icon": "imgs/cruzazul.png"
+  },
+  {
+    "name": "guadalajara",
+    "label": "Guadalajara",
+    "icon": "imgs/chivas.png"
+  },
+  {
+    "name": "leon",
+    "label": "León",
+    "icon": "imgs/leon.png"
+  },
+  {
+    "name": "monterrey",
+    "label": "Monterrey",
+    "icon": "imgs/monterrey.png"
+  },
+  {
+    "name": "morelia",
+    "label": "Morelia",
+    "icon": "imgs/morelia.png"
+  },
+  {
+    "name": "necaxa",
+    "label": "Necaxa",
+    "icon": "imgs/necaxa.png"
+  },
+  {
+    "name": "pachuca",
+    "label": "Pachuca",
+    "icon": "imgs/pachuca.png"
+  },
+  {
+    "name": "puebla",
+    "label": "Puebla",
+    "icon": "imgs/puebla.png"
+  },
+  {
+    "name": "querétaro",
+    "label": "Querétaro",
+    "icon": "imgs/queretaro.png"
+  },
+  {
+    "name": "santos",
+    "label": "Santos Laguna",
+    "icon": "imgs/santos.png"
+  },
+  {
+    "name": "tijuana",
+    "label": "Tijuana",
+    "icon": "imgs/xolos.png"
+  },
+  {
+    "name": "toluca",
+    "label": "Toluca",
+    "icon": "imgs/toluca.png"
+  },
+  {
+    "name": "tigres",
+    "label": "U.A.N.L.",
+    "icon": "imgs/tigres.png"
+  },
+  {
+    "name": "pumas",
+    "label": "U.N.A.M.",
+    "icon": "imgs/pumas.png"
+  },
+  {
+    "name": "lobos",
+    "label": "Lobos BUAP",
+    "icon": "imgs/lobos.png"
+  },
+  {
+    "name": "veracruz",
+    "label": "Veracruz",
+    "icon": "imgs/veracruz.png"
+  }
+]
+}
